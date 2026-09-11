@@ -67,6 +67,20 @@ Chatbot for Neurological Disorders — AI-powered consultation and support for n
 
 ---
 
+## 🐍 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiliboldaffrial/wiliboldaffrial/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiliboldaffrial/wiliboldaffrial/output/github-snake.svg" />
+  <img alt="Wilibold's GitHub contribution snake" src="https://raw.githubusercontent.com/wiliboldaffrial/wiliboldaffrial/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🤝 Let's Connect
